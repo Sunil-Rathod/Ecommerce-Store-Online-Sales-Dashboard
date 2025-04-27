@@ -35,7 +35,8 @@ The Ecommerce Store Online Sales Analysis dashboard is designed to provide the s
 • Deployment: Published on Power BI Service for real-time access.
 
 ## Dashboard:
-<a href="https://github.com/Sunil-Rathod/Ecommerce-Store-Online-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.pbix">View DashBoard</a>
+<a href="https://github.com/Sunil-Rathod/Ecommerce-Store-Online-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard.pbix">View DashBoard- PBIX file</a>
+
 
 ![Ecommerce Sales Dashboard](https://github.com/user-attachments/assets/ba7dbde6-5de2-45e2-be92-219f05f4f21e)
 
